@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joanne, a second-year student studying computer science at Tufts University. Currently, I’m looking for a 2023 summer internship.
+- 👋 Hi, I’m Joanne, a second-year student studying computer science at Tufts University.
 - 👀 It’s a goal of mine to dive deeper into the programming world, of which I’ve only scratched the tip of the iceberg.
 - 🌱 I’m currently learning Python and Javascript/React Native, in addition to C++ and C which are the primary languages I code in.
 - 😊 Besides programming, I enjoy singing, playing the piano, sketching, photography, reading philosophical books, and connecting with people of different cultures and interests.
