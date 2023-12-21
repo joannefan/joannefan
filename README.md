@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joanne, a junior double-majoring in computer science and cognitive & brain sciences at Tufts University.
+👋 Hi, I’m Joanne, a junior double-majoring in computer science and cognitive & brain sciences at Tufts University.
 
 <!---
 joannefan/joannefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
