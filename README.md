@@ -8,13 +8,13 @@ These days I mostly use Python and JavaScript (but I miss static typing so maybe
 In general I find a lot of joy and fun in learning, so I like to push beyond my comfort zone and pick up new tools or unfamiliar technologies. For example, recently I have been dabbling in tree-sitter and using its queries to explore abstract syntax trees for various languages.
 
 ### A little about my GitHub repos:
-Several public repositories are related to web development, including my personal [portfolio](https://joannefan.github.io/about/) and a collaborative course project, [TravelBuddy](https://github.com/joannefan/travelBuddy). Note that one of the free APIs (for plane tickets) we used in TravelBuddy is *sometimes* unreliable, but you can expect results from the other APIs (hotels, travel sites). There may also be a bug on the server side with user sign-in since the PHP was hastily written. I have yet to fix the code (my apologies!), but you don't need to sign/log in to play with the website's main functionality. 
+Several public repositories are related to web development, including my personal [portfolio](https://joannefan.github.io/about/) and a collaborative course project, [TravelBuddy](https://github.com/joannefan/travelBuddy). 
 
 There's a couple of Python modules from a Machine Learning course, such as the [movie-recommender](https://github.com/joannefan/movie-recommender) classifier using collaborative filtering (SVD) and random forest. 
 
 [Larry](https://github.com/LQ1234) and I also started a React Native mobile app in January called JumboAppetit. We paused the project in the thick of the school semester, but some substantial progress was made before then so you are still welcome to check out the [code](https://github.com/LQ1234/JumboAppetit).
 
-Some of the best (in terms of structure and style) examples of my code are probably my C projects for the course Machine Structure & Assembly-line Programming. It is private alas, but please, please reach out if you want to see it. Other contributions to private repos including GailBot which you can learn more about on HiLab's [website](https://sites.tufts.edu/hilab/gailbot/).
+Some of the best (in terms of structure and style) examples of my code are probably my C projects for the course Machine Structure & Assembly-line Programming. It is private alas, but please, please reach out if you want to see it. Other repos I've contributed to include the package and app GailBot, which you can learn more about on HiLab's [website](https://sites.tufts.edu/hilab/gailbot/).
 
 Please feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/joannefan/) if you have any questions.
 
